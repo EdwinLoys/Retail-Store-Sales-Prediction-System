@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+pytest
+pytest-cov
+black
+flake8
+joblib
